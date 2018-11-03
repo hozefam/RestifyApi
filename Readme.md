@@ -15,6 +15,7 @@ This project is to create a quickstart CRUD REST API using **Restify** with **Mo
 - [Mongoose](https://mongoosejs.com/)
 - [MLab](https://mlab.com)
 - [JWT](https://jwt.io/)
+- [Bcyptjs](https://www.npmjs.com/package/bcryptjs)
 
 ## License
 
