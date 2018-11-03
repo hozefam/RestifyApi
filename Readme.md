@@ -1,12 +1,12 @@
-## Node.js REST API using Restify, Mongoose and JWT
+## Node.js REST API using Restify, Mongoose and JWT :rocket: :key: :balloon:
 
 A sample project to showcase Node.js REST API using **Restify, Mongoose and JWT** the project is about.
 
-## Motivation
+## Motivation :star2:
 
 This project is to create a quickstart CRUD REST API using **Restify** with **Mongoose** and then how to apply **JWT** in the REST API.
 
-## Tech/framework used
+## Tech/framework used :star2:
 
 <b>Built with</b>
 
